@@ -1,8 +1,9 @@
 ## 👀 About Me
-  - :raising_hand: I am a Junior SW Engineer from South Korea.<br/>
+  - :raising_hand: I am a junior SW Engineer from South Korea.<br/>
   -  :mortar_board: Undergraduate of Computer Science & Engineering, Korea University(KU)
   <br/>
   <br/>
+  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="[https://www.instagram.com/6_o777/](https://www.instagram.com/)">

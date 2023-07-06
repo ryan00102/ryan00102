@@ -1,6 +1,7 @@
 ## 👀 About Me
   - :raising_hand: I am a junior SW Engineer from South Korea.<br/>
   -  :mortar_board: Undergraduate of Computer Science & Engineering, Korea University(KU)
+  -  Google Developer Students Club Solution Challenge Top 100 : Phopes
   <br/>
   <br/>
   

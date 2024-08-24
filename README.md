@@ -2,6 +2,8 @@
   - :raising_hand: I am a junior SW Engineer from South Korea.<br/>
   -  :mortar_board: Undergraduate of Computer Science & Engineering, Korea University(KU)
   -  :trophy: Google Developer Students Club Solution Challenge Top 100 : Phopes
+  -  :trophy: Google Developer Students Club Solution Challenge Top 100 : RememVR
+  -  💻: Hyundai Mobis SW intern (2024.07 - 2024.08)
   <br/>
   <br/>
   
